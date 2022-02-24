@@ -1,5 +1,5 @@
 ---
-title: Welcome to the documentation
+title: Tropicraft Infodocs
 geekdocNav: false
 geekdocAlign: center
 geekdocAnchor: false
@@ -8,15 +8,17 @@ geekdocAnchor: false
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable MD033 -->
 
-<span class="badge-placeholder">[![Build Status](https://img.shields.io/drone/build/thegeeklab/hugo-geekdoc?logo=drone&server=https%3A%2F%2Fdrone.thegeeklab.de)](https://drone.thegeeklab.de/thegeeklab/hugo-geekdoc)</span>
-<span class="badge-placeholder">[![Hugo Version](https://img.shields.io/badge/hugo-0.83-blue.svg)](https://gohugo.io)</span>
-<span class="badge-placeholder">[![GitHub release](https://img.shields.io/github/v/release/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/releases/latest)</span>
-<span class="badge-placeholder">[![GitHub contributors](https://img.shields.io/github/contributors/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/graphs/contributors)</span>
-<span class="badge-placeholder">[![License: MIT](https://img.shields.io/github/license/thegeeklab/hugo-geekdoc)](https://github.com/thegeeklab/hugo-geekdoc/blob/main/LICENSE)</span>
+[![Tropicraft Logo](https://files.tropicraft.net/logo.png)](https://tropicraft.net)
+
+<span class="badge-placeholder">[![Build Status](https://img.shields.io/github/workflow/status/tropicraft/tropicraft/Java%20CI%20with%20Gradle?style=flat-square)](https://github.com/Tropicraft/Tropicraft/actions)</span>
+<span class="badge-placeholder">[![Open Issues](https://img.shields.io/github/issues/Tropicraft/Tropicraft?style=flat-square)](https://github.com/Tropicraft/Tropicraft/issues)</span>
+<span class="badge-placeholder">[![CurseForge Versions](https://img.shields.io/badge/dynamic/json?color=e04e14&label=For%20MC&query=%24.gameVersionLatestFiles[%3A1].gameVersion&url=https%3A%2F%2Faddons-ecs.forgesvc.net%2Fapi%2Fv2%2Faddon%2F254794&logo=curseforge&style=flat-square)](hhttps://www.curseforge.com/minecraft/mc-mods/tropicraft/)</span>
+<span class="badge-placeholder">[![Discord](https://img.shields.io/discord/285234569375121409?color=7289DA&label=Discord%20&logo=Discord&logoColor=ffffff&style=flat-square)](https://discord.gg/Q24TRnx)</span>
+<span class="badge-placeholder">[![License: MPL-2.0](https://img.shields.io/github/license/Tropicraft/Tropicraft?style=flat-square)](https://github.com/Tropicraft/Tropicraft)</span>
 
 <!-- markdownlint-restore -->
 
-Geekdoc is a simple Hugo theme for documentations. It is intentionally designed as a fast and lean theme and may not fit the requirements of complex projects. If a more feature-complete theme is required there are a lot of got alternatives out there.
+Tropicraft sure is a thing
 
 {{< button size="large" relref="usage/getting-started/" >}}Getting Started{{< /button >}}
 
