@@ -16,7 +16,7 @@ All the necessary CSS customization properties are listed below. If you want to 
 
 <!-- prettier-ignore-start -->
 <!-- spellchecker-disable -->
-{{< include file="/static/custom.css.example" language="CSS" options="linenos=table" >}}
+{{< include file="/static/custom.css" language="CSS" options="linenos=table" >}}
 <!-- spellchecker-enable -->
 <!-- prettier-ignore-end -->
 
