@@ -8,8 +8,6 @@ geekdocAnchor: false
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable MD033 -->
 
-[![Tropicraft Logo](https://files.tropicraft.net/logo.png)](https://tropicraft.net)
-
 <span class="badge-placeholder">[![Build Status](https://img.shields.io/github/workflow/status/tropicraft/tropicraft/Java%20CI%20with%20Gradle?style=flat-square)](https://github.com/Tropicraft/Tropicraft/actions)</span>
 <span class="badge-placeholder">[![Open Issues](https://img.shields.io/github/issues/Tropicraft/Tropicraft?style=flat-square)](https://github.com/Tropicraft/Tropicraft/issues)</span>
 <span class="badge-placeholder">[![CurseForge Versions](https://img.shields.io/badge/dynamic/json?color=e04e14&label=For%20MC&query=%24.gameVersionLatestFiles[%3A1].gameVersion&url=https%3A%2F%2Faddons-ecs.forgesvc.net%2Fapi%2Fv2%2Faddon%2F254794&logo=curseforge&style=flat-square)](hhttps://www.curseforge.com/minecraft/mc-mods/tropicraft/)</span>
