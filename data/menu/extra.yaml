@@ -1,6 +1,6 @@
 ---
 header:
-  - name: GitHub
-    ref: https://github.com/thegeeklab/hugo-geekdoc
-    icon: gdoc_github
+  - name: Discord
+    ref: https://discord.gg/Q24TRnx
+    icon: discord
     external: true
