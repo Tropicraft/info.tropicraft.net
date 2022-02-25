@@ -1,10 +1,14 @@
 ---
 more:
-  - name: CurseForge
-    ref: "https://www.curseforge.com/minecraft/mc-mods/tropicraft"
+  - name: Discord
+    ref: "https://discord.gg/Q24TRnx"
     external: true
-    icon: "fire-flame-curved"
+    icon: "discord"
   - name: GitHub
     ref: "https://github.com/Tropicraft/Tropicraft"
     external: true
     icon: "github"
+  - name: CurseForge
+    ref: "https://www.curseforge.com/minecraft/mc-mods/tropicraft"
+    external: true
+    icon: "fire-flame-curved"
