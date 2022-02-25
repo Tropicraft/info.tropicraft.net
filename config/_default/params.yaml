@@ -12,8 +12,8 @@ geekdocEditPath: edit/main
 geekdocSearch: true
 geekdocSearchShowParent: true
 
-geekdocLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
-geekdocPrivacyPolicy: https://thegeeklab.de/legal-notice/#privacy-policy
+# geekdocLegalNotice: https://thegeeklab.de/legal-notice/#contact-information
+# geekdocPrivacyPolicy: https://thegeeklab.de/legal-notice/#privacy-policy
 
 geekdocImageLazyLoading: true
-geekdocDarkModeDim: true
+# geekdocDarkModeDim: false
