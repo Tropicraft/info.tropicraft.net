@@ -97,3 +97,23 @@
     --footer-link-color-visited: #ffcc5c;
   }
 }
+
+.2x2-crafting-grid {
+  display: table;
+  border-spacing: 5px;
+}
+.3x3-crafting-grid {
+  display: table;
+  border-spacing: 5px;
+}
+.crafting-row {
+  display: table-row
+}
+.crafting-cell {
+  width: 50px;
+  height: 50px;
+  background: grey;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}

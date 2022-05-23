@@ -1,0 +1,31 @@
+{{ if len .Params | eq 4 }}
+  <div class="2x2-crafting-grid">
+    <div class="crafting-row">
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 0 }}.png" alt="{{ .Get 0 }}"/></div>
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 1 }}.png" alt="{{ .Get 1 }}"/></div>
+    </div>
+    <div class="crafting-row">
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 2 }}.png" alt="{{ .Get 2 }}"/></div>
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 3 }}.png" alt="{{ .Get 3 }}"/></div>
+    </div>
+{{ else if len .Params | eq 9 }}
+  <div class="3x3-crafting-grid">
+    <div class="crafting-row">
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 0 }}.png" alt="{{ .Get 0 }}"/></div>
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 1 }}.png" alt="{{ .Get 1 }}"/></div>
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 2 }}.png" alt="{{ .Get 2 }}"/></div>
+    </div>
+    <div class="crafting-row">
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 3 }}.png" alt="{{ .Get 3 }}"/></div>
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 4 }}.png" alt="{{ .Get 4 }}"/></div>
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 5 }}.png" alt="{{ .Get 5 }}"/></div>
+    </div>
+    <div class="crafting-row">
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 6 }}.png" alt="{{ .Get 6 }}"/></div>
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 7 }}.png" alt="{{ .Get 7 }}"/></div>
+      <div class="crafting-cell"><img src="/images/icons/{{ .Get 8 }}.png" alt="{{ .Get 8 }}"/></div>
+    </div>
+  </div>
+{{ else }}
+  <p>Error: Crafting Grid requires either 4 or 9 arguments, {{ len .Params }} supplied</p>
+{{ end }}
